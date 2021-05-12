@@ -32,6 +32,7 @@ Celle-ci comporte :
   - Ville
   - Prix
   - Classe énergétique
+  - kjsqdgjgksd
   - Année de construction
 
 **Exemple d'annonce**
